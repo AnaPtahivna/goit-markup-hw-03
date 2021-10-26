@@ -381,6 +381,10 @@ color: var(----footer-address-color)}
   margin-bottom: 34px;
 } */
 
+.info-section {
+  background-color: #EEEEEE;
+}
+
 .portfolio-header-container {
   border-bottom: solid;
   border-color: #ECECEC;
