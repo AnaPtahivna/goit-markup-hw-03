@@ -51,6 +51,8 @@ body {
   background-color: var(--header-color);
   padding-top: 24px;
   padding-bottom: 25px;
+  border-bottom: 1px solid;
+  border-color: #ECECEC;
 }
 
 .header-portfolio {
@@ -378,12 +380,6 @@ color: var(----footer-address-color)}
   margin-bottom: 34px;
 } */
 
-.portfolio-header-container {
-  border-bottom: solid;
-  border-color: #ECECEC;
-  border-width: 1px;
-}
-
 .info-section {
   padding-top: 94px;
   padding-bottom: 94px;
@@ -450,9 +446,9 @@ color: var(--text-color);
   margin-top: 30px;
 }
 
-.offer-item:nth-child(3n+1) {
+/* .offer-item:nth-child(3n+1) {
   margin-left: 0;
-}
+} */
 
 .item-text {
   padding: 20px 24px 20px 24px;
